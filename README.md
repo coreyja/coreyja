@@ -1,16 +1,17 @@
-### Hi there 👋
+### 👋  Hey I'm Corey
 
-<!--
-**coreyja/coreyja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Pronouns: He/Him
 
-Here are some ideas to get you started:
+I'm a Web Developer who is trying out content creation!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm streaming on Twitch: https://twitch.tv/coreyja
+and starting to make videos for Youtube: https://www.youtube.com/@Coreyja
+Also check out my blog at https://coreyja.com
+
+Just about all the coding I do on stream and for my Youtube Channel is open source and on my Github Profile
+
+One of the things I've been doing a lot recently is Battlesnake: https://play.battlesnake.com
+Every Sunday you can tune into my Twitch where we will work on my Snakes AI and various other Battlesnake topics
+
+I have a Discord that I am starting out that is open for everyone! Sponsors will get a special role and access to some private Sponsor-only channels!
+Discord: https://discord.gg/RrXRfJNQJX
