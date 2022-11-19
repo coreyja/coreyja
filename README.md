@@ -2,12 +2,11 @@
 
 Pronouns: He/Him
 
-I'm a Web Developer who is trying out content creation!
-
-I'm streaming on Twitch: https://twitch.tv/coreyja
-and starting to make videos for Youtube: https://www.youtube.com/@Coreyja
-Also check out my blog at https://coreyja.com
-And my Fediverse account at: <a rel="me" href="https://toot.cat/@Coreyja">https://toot.cat/@Coreyja</a>
+I'm a Web Developer who is trying out content creation!<br />
+I'm streaming on Twitch: https://twitch.tv/coreyja<br />
+and starting to make videos for Youtube: https://www.youtube.com/@Coreyja<br />
+Also check out my blog at https://coreyja.com<br />
+And my Fediverse account at: <a rel="me" href="https://toot.cat/@Coreyja">https://toot.cat/@Coreyja</a><br />
 
 Just about all the coding I do on stream and for my Youtube Channel is open source and on my Github Profile
 
