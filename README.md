@@ -13,5 +13,12 @@ Just about all the coding I do on stream and for my Youtube Channel is open sour
 One of the things I've been doing a lot recently is Battlesnake: https://play.battlesnake.com
 Every Sunday you can tune into my Twitch where we will work on my Snakes AI and various other Battlesnake topics
 
-I have a Discord that I am starting out that is open for everyone! Sponsors will get a special role and access to some private Sponsor-only channels!
+I have a Discord Server that I am starting out that is open for everyone!
 Discord: https://discord.gg/RrXRfJNQJX
+
+### Sponsorship
+
+If you like the content I produce and want to see me make more, I'd love a Sponsorship on Github Sponsors!
+All Sponsors have my eternal gratitude and those who join the Discord Server will get a special role and access to some private Sponsor-only channels!
+
+https://github.com/sponsors/coreyja
