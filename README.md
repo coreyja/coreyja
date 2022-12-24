@@ -2,23 +2,33 @@
 
 Pronouns: He/Him
 
-I'm a Web Developer who is trying out content creation!<br />
-I'm streaming on Twitch: https://twitch.tv/coreyja<br />
-and starting to make videos for Youtube: https://www.youtube.com/@Coreyja<br />
-Also check out my blog at https://coreyja.com<br />
-And my Fediverse account at: <a rel="me" href="https://toot.cat/@Coreyja">https://toot.cat/@Coreyja</a> - `@coreyja@toot.cat`<br />
+Welcome to my Github profile!
 
-Just about all the coding I do on stream and for my Youtube Channel is open source and on my Github Profile
+Hey! I'm Corey, a web developer and content creator. I'm passionate about Rust programming and love sharing my knowledge and experience through my videos and streams. My goal is to create educational and engaging content that developers of all skill levels can enjoy. Whether you're just starting out or an experienced pro, I hope you'll find something useful in my videos. I also have a Discord server where viewers are welcome to join, ask questions, provide feedback, and hang out with me and the community. I'm always open to feedback and suggestions, so please don't hesitate to reach out and let me know what you'd like to see from me. Thanks for stopping by!
 
-One of the things I've been doing a lot recently is Battlesnake: https://play.battlesnake.com
-Every Sunday you can tune into my Twitch where we will work on my Snakes AI and various other Battlesnake topics
-
-I have a Discord Server that I am starting out that is open for everyone!
 Discord: https://discord.gg/RrXRfJNQJX
+
+I'm currently working on a few exciting projects, including my Battlesnake AI and an Advent of Code video series. I'm also planning to create a course on building an HTTP framework from the ground up in Rust.
+
+These projects allow me to combine my passion for Rust programming with my love of creating educational content. I hope you'll join me in following my progress and learning something new along the way!
+
+#### Links
+
+Twitch: https://twitch.tv/coreyja
+<br />
+Youtube: https://www.youtube.com/@Coreyja
+<br />
+Blog: https://coreyja.com
+<br />
+Fediverse: <a rel="me" href="https://toot.cat/@Coreyja">https://toot.cat/@Coreyja</a> - `@coreyja@toot.cat`
+
 
 ### Sponsorship
 
-If you like the content I produce and want to see me make more, I'd love a Sponsorship on Github Sponsors!
-All Sponsors have my eternal gratitude and those who join the Discord Server will get a special role and access to some private Sponsor-only channels!
+I'm grateful to have the opportunity to create content that I love, and I'm always looking for ways to improve and grow.
+
+If you're a fan of my work and want to see more, consider supporting me through Github Sponsors. Your sponsorship helps me continue creating educational and engaging content for the programming community, and it also includes some special perks for you!
+
+All sponsors will receive my eternal gratitude, and those who join my Discord server will also get a special role and access to some private, sponsor-only channels. Thank you for your support!
 
 https://github.com/sponsors/coreyja
