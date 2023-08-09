@@ -8,10 +8,6 @@ Hey! I'm Corey, a web developer and content creator. I'm passionate about Rust p
 
 Discord: https://discord.gg/RrXRfJNQJX
 
-I'm currently working on a few exciting projects, including my Battlesnake AI and an Advent of Code video series. I'm also planning to create a course on building an HTTP framework from the ground up in Rust.
-
-These projects allow me to combine my passion for Rust programming with my love of creating educational content. I hope you'll join me in following my progress and learning something new along the way!
-
 #### Links
 
 Twitch: https://twitch.tv/coreyja
