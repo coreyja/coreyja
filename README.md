@@ -28,3 +28,8 @@ If you're a fan of my work and want to see more, consider supporting me through 
 All sponsors will receive my eternal gratitude, and those who join my Discord server will also get a special role and access to some private, sponsor-only channels. Thank you for your support!
 
 https://github.com/sponsors/coreyja
+
+### Popular Repos
+
+[![Star History Chart](https://api.star-history.com/svg?repos=coreyja/coreyja.com,coreyja/battlesnake-rs,coreyja/devicon-lookup,coreyja/dotfiles,coreyja/sleet,coreyja/fzf.devicon.vim,coreyja/caje,coreyja/peek&type=Date)](https://star-history.com/#coreyja/coreyja.com&coreyja/battlesnake-rs&coreyja/devicon-lookup&coreyja/dotfiles&coreyja/sleet&coreyja/fzf.devicon.vim&coreyja/caje&coreyja/peek&Date)
+
